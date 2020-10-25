@@ -1,0 +1,890 @@
+{
+    "ReferenceLists": {
+        "FundamentalLookUp": {
+            "Currencies": {
+                "Currency": [
+                    {
+                        "Code": "AED",
+                        "MGCode": "AED",
+                        "Value": "Untd. Arab Dirham"
+                    },
+                    {
+                        "Code": "AFN",
+                        "MGCode": "AFN",
+                        "Value": "Afghani"
+                    },
+                    {
+                        "Code": "ALL",
+                        "MGCode": "ALL",
+                        "Value": "Albanian lek"
+                    },
+                    {
+                        "Code": "AMD",
+                        "MGCode": "AMD",
+                        "Value": "Armenian Dram"
+                    },
+                    {
+                        "Code": "ANG",
+                        "MGCode": "NAG",
+                        "Value": "N.A. Guilders"
+                    },
+                    {
+                        "Code": "AOA",
+                        "MGCode": "AOA",
+                        "Value": "Kwanza"
+                    },
+                    {
+                        "Code": "ARS",
+                        "MGCode": "P$",
+                        "Value": "Argentine Peso"
+                    },
+                    {
+                        "Code": "ATS",
+                        "MGCode": "ATS",
+                        "Value": "Austrian Schilling"
+                    },
+                    {
+                        "Code": "AUD",
+                        "MGCode": "A$",
+                        "Value": "Australian Dollars"
+                    },
+                    {
+                        "Code": "AWG",
+                        "MGCode": "AWG",
+                        "Value": "Aruban Guilder"
+                    },
+                    {
+                        "Code": "AZN",
+                        "MGCode": "AZN",
+                        "Value": "Azerbaijani Manat"
+                    },
+                    {
+                        "Code": "BAM",
+                        "MGCode": "BAM",
+                        "Value": "Bosnia-Herzegovinan Mark"
+                    },
+                    {
+                        "Code": "BBD",
+                        "MGCode": "BBD",
+                        "Value": "Barbados Dollars"
+                    },
+                    {
+                        "Code": "BDT",
+                        "MGCode": "BDT",
+                        "Value": "Bangladeshi Taka"
+                    },
+                    {
+                        "Code": "BEF",
+                        "MGCode": "BF",
+                        "Value": "Francs"
+                    },
+                    {
+                        "Code": "BGN",
+                        "MGCode": "BGN",
+                        "Value": "Bulgarian Leva"
+                    },
+                    {
+                        "Code": "BHD",
+                        "MGCode": "BHD",
+                        "Value": "Bahraini Dinar"
+                    },
+                    {
+                        "Code": "BIF",
+                        "MGCode": "FBu",
+                        "Value": "Burundian Franc"
+                    },
+                    {
+                        "Code": "BMD",
+                        "MGCode": "BE$",
+                        "Value": "Bermuda Dollars"
+                    },
+                    {
+                        "Code": "BND",
+                        "MGCode": "BND",
+                        "Value": "Bruneian Dollar"
+                    },
+                    {
+                        "Code": "BOB",
+                        "MGCode": "B",
+                        "Value": "Bolivian Boliviano"
+                    },
+                    {
+                        "Code": "BRL",
+                        "MGCode": "R$",
+                        "Value": "Real"
+                    },
+                    {
+                        "Code": "BSD",
+                        "MGCode": "BA$",
+                        "Value": "Bahamas Dollars"
+                    },
+                    {
+                        "Code": "BTN",
+                        "MGCode": "BTN",
+                        "Value": "Bhutanese Ngultrum"
+                    },
+                    {
+                        "Code": "BWP",
+                        "MGCode": "BWP",
+                        "Value": "Botswana Pula"
+                    },
+                    {
+                        "Code": "BYN",
+                        "MGCode": "BYN",
+                        "Value": "Belarusian Ruble"
+                    },
+                    {
+                        "Code": "BZD",
+                        "MGCode": "BD",
+                        "Value": "Belize Dollars"
+                    },
+                    {
+                        "Code": "CAD",
+                        "MGCode": "C$",
+                        "Value": "Canadian Dollars"
+                    },
+                    {
+                        "Code": "CDF",
+                        "MGCode": "CDF",
+                        "Value": "Congolese Franc"
+                    },
+                    {
+                        "Code": "CHF",
+                        "MGCode": "SF",
+                        "Value": "Swiss Francs"
+                    },
+                    {
+                        "Code": "CLP",
+                        "MGCode": "CH$",
+                        "Value": "Chilean Peso"
+                    },
+                    {
+                        "Code": "CNY",
+                        "MGCode": "RMB",
+                        "Value": "Renminbi"
+                    },
+                    {
+                        "Code": "COP",
+                        "MGCode": "COP",
+                        "Value": "Peso"
+                    },
+                    {
+                        "Code": "CRC",
+                        "MGCode": "CRC",
+                        "Value": "Costa Rican Colon"
+                    },
+                    {
+                        "Code": "CUP",
+                        "MGCode": "CUP",
+                        "Value": "Cuban Peso"
+                    },
+                    {
+                        "Code": "CVE",
+                        "MGCode": "CVE",
+                        "Value": "Cape Verdean escudo"
+                    },
+                    {
+                        "Code": "CYP",
+                        "MGCode": "CYP",
+                        "Value": "Cyprus Pound"
+                    },
+                    {
+                        "Code": "CZK",
+                        "MGCode": "CZK",
+                        "Value": "Czech Koruna"
+                    },
+                    {
+                        "Code": "DEM",
+                        "MGCode": "DM",
+                        "Value": "German Marks"
+                    },
+                    {
+                        "Code": "DJF",
+                        "MGCode": "DJF",
+                        "Value": "Djiboutian Franc"
+                    },
+                    {
+                        "Code": "DKK",
+                        "MGCode": "DKR",
+                        "Value": "Danish Krone"
+                    },
+                    {
+                        "Code": "DOP",
+                        "MGCode": "RD",
+                        "Value": "Dominican Peso"
+                    },
+                    {
+                        "Code": "DZD",
+                        "MGCode": "DZD",
+                        "Value": "Algerian Dinar"
+                    },
+                    {
+                        "Code": "ECS",
+                        "MGCode": "ECS",
+                        "Value": "Ecuadorian Sucre"
+                    },
+                    {
+                        "Code": "EEK",
+                        "MGCode": "EEK",
+                        "Value": "Estonian Kroon"
+                    },
+                    {
+                        "Code": "EGP",
+                        "MGCode": "EGP",
+                        "Value": "Egyptian Pound"
+                    },
+                    {
+                        "Code": "ERN",
+                        "MGCode": "ERN",
+                        "Value": "Eritrean Nakfa"
+                    },
+                    {
+                        "Code": "ESP",
+                        "MGCode": "P",
+                        "Value": "Pesetas"
+                    },
+                    {
+                        "Code": "ETB",
+                        "MGCode": "ETB",
+                        "Value": "Ethiopian Birr"
+                    },
+                    {
+                        "Code": "EUR",
+                        "MGCode": "EUR",
+                        "Value": "Euro"
+                    },
+                    {
+                        "Code": "FIM",
+                        "MGCode": "FMA",
+                        "Value": "Finnish Marks"
+                    },
+                    {
+                        "Code": "FJD",
+                        "MGCode": "FJD",
+                        "Value": "Fiji Dollar"
+                    },
+                    {
+                        "Code": "FKP",
+                        "MGCode": "FKP",
+                        "Value": "Falkland Islands pound"
+                    },
+                    {
+                        "Code": "FRF",
+                        "MGCode": "FF",
+                        "Value": "French Francs"
+                    },
+                    {
+                        "Code": "GBP",
+                        "MGCode": "L",
+                        "Value": "British Pounds"
+                    },
+                    {
+                        "Code": "GEL",
+                        "MGCode": "GEL",
+                        "Value": "Georgian Lari"
+                    },
+                    {
+                        "Code": "GHS",
+                        "MGCode": "GHS",
+                        "Value": "Cedi"
+                    },
+                    {
+                        "Code": "GIP",
+                        "MGCode": "GIP",
+                        "Value": "Gibraltar Pound"
+                    },
+                    {
+                        "Code": "GMD",
+                        "MGCode": "GMD",
+                        "Value": "Gambian dalasi"
+                    },
+                    {
+                        "Code": "GNF",
+                        "MGCode": "GNF",
+                        "Value": "Guinean Franc"
+                    },
+                    {
+                        "Code": "GRD",
+                        "MGCode": "GDR",
+                        "Value": "Drachma"
+                    },
+                    {
+                        "Code": "GTQ",
+                        "MGCode": "GTQ",
+                        "Value": "Quetzal"
+                    },
+                    {
+                        "Code": "GYD",
+                        "MGCode": "GYD",
+                        "Value": "Guyana Dollars"
+                    },
+                    {
+                        "Code": "HKD",
+                        "MGCode": "HK$",
+                        "Value": "Hong Kong Dollars"
+                    },
+                    {
+                        "Code": "HNL",
+                        "MGCode": "HNL",
+                        "Value": "Honduran Lempira"
+                    },
+                    {
+                        "Code": "HRK",
+                        "MGCode": "HRK",
+                        "Value": "Croatian Kuna"
+                    },
+                    {
+                        "Code": "HTG",
+                        "MGCode": "HTG",
+                        "Value": "Haitian gourde"
+                    },
+                    {
+                        "Code": "HUF",
+                        "MGCode": "HUF",
+                        "Value": "Hungarian Forint"
+                    },
+                    {
+                        "Code": "IDR",
+                        "MGCode": "RP",
+                        "Value": "Rupiah"
+                    },
+                    {
+                        "Code": "IEP",
+                        "MGCode": "IPU",
+                        "Value": "Punt"
+                    },
+                    {
+                        "Code": "ILS",
+                        "MGCode": "NIS",
+                        "Value": "Shekel"
+                    },
+                    {
+                        "Code": "INR",
+                        "MGCode": "RS",
+                        "Value": "Rupee"
+                    },
+                    {
+                        "Code": "IQD",
+                        "MGCode": "IQD",
+                        "Value": "Iraqi Dinar"
+                    },
+                    {
+                        "Code": "IRR",
+                        "MGCode": "IRR",
+                        "Value": "Iranian Rial"
+                    },
+                    {
+                        "Code": "ISK",
+                        "MGCode": "ISK",
+                        "Value": "Icelandic Krona"
+                    },
+                    {
+                        "Code": "ITL",
+                        "MGCode": "LIR",
+                        "Value": "Lire"
+                    },
+                    {
+                        "Code": "JMD",
+                        "MGCode": "JMD",
+                        "Value": "Jamaican Dollar"
+                    },
+                    {
+                        "Code": "JOD",
+                        "MGCode": "JD",
+                        "Value": "Jordanian Dinar"
+                    },
+                    {
+                        "Code": "JPY",
+                        "MGCode": "Y",
+                        "Value": "Yen"
+                    },
+                    {
+                        "Code": "KES",
+                        "MGCode": "KES",
+                        "Value": "Kenyan Shilling"
+                    },
+                    {
+                        "Code": "KGS",
+                        "MGCode": "KGS",
+                        "Value": "Kyrgyzstani som"
+                    },
+                    {
+                        "Code": "KHR",
+                        "MGCode": "KHR",
+                        "Value": "Cambodian Riel"
+                    },
+                    {
+                        "Code": "KMF",
+                        "MGCode": "KMF",
+                        "Value": "Comoro Franc"
+                    },
+                    {
+                        "Code": "KPW",
+                        "MGCode": "KPW",
+                        "Value": "North Korean won"
+                    },
+                    {
+                        "Code": "KRW",
+                        "MGCode": "W",
+                        "Value": "Won"
+                    },
+                    {
+                        "Code": "KWD",
+                        "MGCode": "KWD",
+                        "Value": "Kuwaiti Dinar"
+                    },
+                    {
+                        "Code": "KYD",
+                        "MGCode": "CI$",
+                        "Value": "Cayman Is. Dollars"
+                    },
+                    {
+                        "Code": "KZT",
+                        "MGCode": "KZT",
+                        "Value": "Kazakhstan Tenge"
+                    },
+                    {
+                        "Code": "LAK",
+                        "MGCode": "LAK",
+                        "Value": "Lao Kip"
+                    },
+                    {
+                        "Code": "LBP",
+                        "MGCode": "LBP",
+                        "Value": "Lebanese Pound"
+                    },
+                    {
+                        "Code": "LKR",
+                        "MGCode": "LKR",
+                        "Value": "Sri Lanka Rupee"
+                    },
+                    {
+                        "Code": "LRD",
+                        "MGCode": "LRD",
+                        "Value": "Liberian dollar"
+                    },
+                    {
+                        "Code": "LSL",
+                        "MGCode": "LSL",
+                        "Value": "Lesotho loti"
+                    },
+                    {
+                        "Code": "LTL",
+                        "MGCode": "LTL",
+                        "Value": "Lithuanian Litas"
+                    },
+                    {
+                        "Code": "LUF",
+                        "MGCode": "LF",
+                        "Value": "Luxembourg francs"
+                    },
+                    {
+                        "Code": "LVL",
+                        "MGCode": "LVL",
+                        "Value": "Latvian Lat"
+                    },
+                    {
+                        "Code": "LYD",
+                        "MGCode": "LYD",
+                        "Value": "Dinar"
+                    },
+                    {
+                        "Code": "MAD",
+                        "MGCode": "MAD",
+                        "Value": "Moroccan Dirham"
+                    },
+                    {
+                        "Code": "MDL",
+                        "MGCode": "MDL",
+                        "Value": "Moldovan Leu"
+                    },
+                    {
+                        "Code": "MGA",
+                        "MGCode": "MGA",
+                        "Value": "Malagasy ariary"
+                    },
+                    {
+                        "Code": "MKD",
+                        "MGCode": "MKD",
+                        "Value": "Macedonian Denar"
+                    },
+                    {
+                        "Code": "MMK",
+                        "MGCode": "MMK",
+                        "Value": "Burmese kyat"
+                    },
+                    {
+                        "Code": "MNT",
+                        "MGCode": "MNT",
+                        "Value": "Mongolian Tugrik"
+                    },
+                    {
+                        "Code": "MOP",
+                        "MGCode": "MOP",
+                        "Value": "Macanese Pataca"
+                    },
+                    {
+                        "Code": "MRO",
+                        "MGCode": "MRO",
+                        "Value": "Mauritanian ouguiya"
+                    },
+                    {
+                        "Code": "MTL",
+                        "MGCode": "MTL",
+                        "Value": "Maltese Lira"
+                    },
+                    {
+                        "Code": "MUR",
+                        "MGCode": "MUR",
+                        "Value": "Mauritius Rupee"
+                    },
+                    {
+                        "Code": "MVR",
+                        "MGCode": "MVR",
+                        "Value": "Maldivian Rufiyaa"
+                    },
+                    {
+                        "Code": "MWK",
+                        "MGCode": "MWK",
+                        "Value": "Malawi Kwacha"
+                    },
+                    {
+                        "Code": "MXN",
+                        "MGCode": "PS",
+                        "Value": "Mexican Pesos"
+                    },
+                    {
+                        "Code": "MYR",
+                        "MGCode": "RM",
+                        "Value": "Ringgit"
+                    },
+                    {
+                        "Code": "MZN",
+                        "MGCode": "MZN",
+                        "Value": "Mozambique Metical"
+                    },
+                    {
+                        "Code": "NAD",
+                        "MGCode": "NAD",
+                        "Value": "Namibian Dollar"
+                    },
+                    {
+                        "Code": "NGN",
+                        "MGCode": "NGN",
+                        "Value": "Nigeria Naira"
+                    },
+                    {
+                        "Code": "NIO",
+                        "MGCode": "NIO",
+                        "Value": "Nicaraguan Cordoba"
+                    },
+                    {
+                        "Code": "NLG",
+                        "MGCode": "NLG",
+                        "Value": "Guilders"
+                    },
+                    {
+                        "Code": "NOK",
+                        "MGCode": "NOK",
+                        "Value": "Norwegian Krone"
+                    },
+                    {
+                        "Code": "NPR",
+                        "MGCode": "NPR",
+                        "Value": "Nepalese Rupee"
+                    },
+                    {
+                        "Code": "NZD",
+                        "MGCode": "NZ$",
+                        "Value": "N.Z. Dollars"
+                    },
+                    {
+                        "Code": "OMR",
+                        "MGCode": "OMR",
+                        "Value": "Omani Rial"
+                    },
+                    {
+                        "Code": "PAB",
+                        "MGCode": "BAL",
+                        "Value": "Balboa"
+                    },
+                    {
+                        "Code": "PEN",
+                        "MGCode": "PEN",
+                        "Value": "Sol"
+                    },
+                    {
+                        "Code": "PGK",
+                        "MGCode": "PGK",
+                        "Value": "Kina"
+                    },
+                    {
+                        "Code": "PHP",
+                        "MGCode": "PP",
+                        "Value": "Philippine Pesos"
+                    },
+                    {
+                        "Code": "PKR",
+                        "MGCode": "PKR",
+                        "Value": "Pakistan Rupee"
+                    },
+                    {
+                        "Code": "PLN",
+                        "MGCode": "PLN",
+                        "Value": "Polish Zloty"
+                    },
+                    {
+                        "Code": "PTE",
+                        "MGCode": "PTE",
+                        "Value": "Portuguese Escudos"
+                    },
+                    {
+                        "Code": "PYG",
+                        "MGCode": "PYG",
+                        "Value": "Guarani"
+                    },
+                    {
+                        "Code": "QAR",
+                        "MGCode": "QAR",
+                        "Value": "Qatari Rial"
+                    },
+                    {
+                        "Code": "RON",
+                        "MGCode": "RON",
+                        "Value": "New Leu"
+                    },
+                    {
+                        "Code": "RSD",
+                        "MGCode": "RSD",
+                        "Value": "Serbian Dinar"
+                    },
+                    {
+                        "Code": "RUB",
+                        "MGCode": "RUR",
+                        "Value": "Ruble"
+                    },
+                    {
+                        "Code": "RWF",
+                        "MGCode": "RWF",
+                        "Value": "Rwandan franc"
+                    },
+                    {
+                        "Code": "SAR",
+                        "MGCode": "SAR",
+                        "Value": "Saudi Riyals"
+                    },
+                    {
+                        "Code": "SBD",
+                        "MGCode": "SBD",
+                        "Value": "Solomon Islands dollar"
+                    },
+                    {
+                        "Code": "SCR",
+                        "MGCode": "SCR",
+                        "Value": "Seychelles Rupee"
+                    },
+                    {
+                        "Code": "SDG",
+                        "MGCode": "SDG",
+                        "Value": "Sudanese Pound"
+                    },
+                    {
+                        "Code": "SEK",
+                        "MGCode": "SEK",
+                        "Value": "Swedish Krona"
+                    },
+                    {
+                        "Code": "SGD",
+                        "MGCode": "SP$",
+                        "Value": "Singapore Dollars"
+                    },
+                    {
+                        "Code": "SHP",
+                        "MGCode": "SHP",
+                        "Value": "Saint Helena Pound"
+                    },
+                    {
+                        "Code": "SIT",
+                        "MGCode": "SIT",
+                        "Value": "Slovenian Tolar"
+                    },
+                    {
+                        "Code": "SKK",
+                        "MGCode": "SKK",
+                        "Value": "Slovak Koruna"
+                    },
+                    {
+                        "Code": "SLL",
+                        "MGCode": "SLL",
+                        "Value": "Sierra Leonean Leone"
+                    },
+                    {
+                        "Code": "SOS",
+                        "MGCode": "SOS",
+                        "Value": "Somali Shilling"
+                    },
+                    {
+                        "Code": "SRD",
+                        "MGCode": "SRD",
+                        "Value": "Surinamese Dollar"
+                    },
+                    {
+                        "Code": "STN",
+                        "MGCode": "STN",
+                        "Value": "Sao Tome and Principe Dobra (New)"
+                    },
+                    {
+                        "Code": "SVC",
+                        "MGCode": "SVC",
+                        "Value": "Salvadoran Colon"
+                    },
+                    {
+                        "Code": "SYP",
+                        "MGCode": "SYP",
+                        "Value": "Syrian Pound"
+                    },
+                    {
+                        "Code": "SZL",
+                        "MGCode": "SZL",
+                        "Value": "Lilangeni"
+                    },
+                    {
+                        "Code": "THB",
+                        "MGCode": "BAH",
+                        "Value": "Baht"
+                    },
+                    {
+                        "Code": "TJS",
+                        "MGCode": "TJS",
+                        "Value": "Tajikistani Somoni"
+                    },
+                    {
+                        "Code": "TMT",
+                        "MGCode": "TMT",
+                        "Value": "Turkmenistan New Manat"
+                    },
+                    {
+                        "Code": "TND",
+                        "MGCode": "TND",
+                        "Value": "Tunisian Dinar"
+                    },
+                    {
+                        "Code": "TOP",
+                        "MGCode": "TOP",
+                        "Value": "Tongan Pa'anga"
+                    },
+                    {
+                        "Code": "TRY",
+                        "MGCode": "TRY",
+                        "Value": "Turkish Lira"
+                    },
+                    {
+                        "Code": "TTD",
+                        "MGCode": "TTD",
+                        "Value": "Trinidad and Tobago Dollar"
+                    },
+                    {
+                        "Code": "TWD",
+                        "MGCode": "NT$",
+                        "Value": "Taiwanese Dollars"
+                    },
+                    {
+                        "Code": "TZS",
+                        "MGCode": "TZS",
+                        "Value": "Tanzanian Shilling"
+                    },
+                    {
+                        "Code": "UAH",
+                        "MGCode": "UAH",
+                        "Value": "Ukranian Hryvnia"
+                    },
+                    {
+                        "Code": "UGX",
+                        "MGCode": "UGX",
+                        "Value": "Ugandan Shilling"
+                    },
+                    {
+                        "Code": "USD",
+                        "MGCode": "$",
+                        "Value": "U.S. Dollars"
+                    },
+                    {
+                        "Code": "UYU",
+                        "MGCode": "UYU",
+                        "Value": "Uruguayan Peso"
+                    },
+                    {
+                        "Code": "UZS",
+                        "MGCode": "UZS",
+                        "Value": "Uzbekistani Sum"
+                    },
+                    {
+                        "Code": "VES",
+                        "MGCode": "VES",
+                        "Value": "Bolivar Soberano"
+                    },
+                    {
+                        "Code": "VND",
+                        "MGCode": "VND",
+                        "Value": "Vietnamese Dong"
+                    },
+                    {
+                        "Code": "VUV",
+                        "MGCode": "VUV",
+                        "Value": "Vanuatu Vatu"
+                    },
+                    {
+                        "Code": "WST",
+                        "MGCode": "WST",
+                        "Value": "Tala"
+                    },
+                    {
+                        "Code": "XAF",
+                        "MGCode": "XAF",
+                        "Value": "CFA Franc BEAC"
+                    },
+                    {
+                        "Code": "XCD",
+                        "MGCode": "EC$",
+                        "Value": "E. Caribbean $"
+                    },
+                    {
+                        "Code": "XDR",
+                        "MGCode": "XDR",
+                        "Value": "IMF Special Drawing Rights"
+                    },
+                    {
+                        "Code": "XOF",
+                        "MGCode": "XOF",
+                        "Value": "CFA Franc BCEAO"
+                    },
+                    {
+                        "Code": "XPF",
+                        "MGCode": "XPF",
+                        "Value": "CFP Franc"
+                    },
+                    {
+                        "Code": "YER",
+                        "MGCode": "YER",
+                        "Value": "Yemeni Rial"
+                    },
+                    {
+                        "Code": "ZAR",
+                        "MGCode": "RAN",
+                        "Value": "Rand"
+                    },
+                    {
+                        "Code": "ZMW",
+                        "MGCode": "ZMW",
+                        "Value": "Zambian Kwacha (New)"
+                    },
+                    {
+                        "Code": "ZWL",
+                        "MGCode": "ZWL",
+                        "Value": "Zimbabwe Dollar (New)"
+                    }
+                ]
+            }
+        }
+    }
+}
